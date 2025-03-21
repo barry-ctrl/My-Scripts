@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # wrapper script for preview searching files using fzf
 
 # usage
