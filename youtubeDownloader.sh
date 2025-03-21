@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#This program uses the python package yt-dlp to download youtube videos
 # Check if yt-dlp is installed
 if ! command -v yt-dlp &> /dev/null; then
     echo "yt-dlp is not installed. Please install it first."
